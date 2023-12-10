@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning rust
 - 📫 How to reach me: sansermail@163.com
 
-![Sioanao's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Sioanao's GitHub stats](https://github-readme-stats.vercel.app/api?username=sianao&show_icons=true&theme=radical)

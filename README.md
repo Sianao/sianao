@@ -5,4 +5,4 @@
 
 ![Sioanao's GitHub stats](https://github-readme-stats-sia.vercel.app/api?username=sianao&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-sia.vercel.app/api/top-langs/?username=sianao&layout=donut-vertical)](https://github.com/sianao)
+[![Top Langs](https://github-readme-stats-sia.vercel.app/api/top-langs/?username=sianao)](https://github.com/sianao)

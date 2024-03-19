@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on golang
 - 🌱 I’m currently learning rust
-- 📫 How to reach me: sansermail@163.com&zhengjinkun@redrock.team
+- 📫 How to reach me: luosianao@gmail.com
 
 ![Sioanao's GitHub](https://github-readme-stats-sia.vercel.app/api?username=sianao&show_icons=true&theme=radical)
 

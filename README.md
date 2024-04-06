@@ -7,5 +7,3 @@
 - 📫 How to reach me: luosianao@gmail.com
 
 
-  [![Sianao's GitHub stats](https://api.siamao.site/api?username=sianao)](https://siamao.cn)
-

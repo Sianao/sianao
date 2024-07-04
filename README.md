@@ -1,5 +1,5 @@
-### Hi there 👋
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Talk%20is%20Cheap,%20So%20We%20Sleep&width=800&height=400)](https://sianao.site)
+
+[![SVG Banners](https://static.sianao.site/static/094a4801630015cb482168d30090dd09.png)](https://sianao.site)
 - 🔭 I’m currently working on golang
 - 🌱 I’m currently learning rust
 - 📫 How to reach me me@sianao.site

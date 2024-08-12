@@ -1,8 +1,8 @@
 
 
-# 嗨！我是 Sianao 👋
+# Hi！I'm Sianao 👋
 
-**一个 Go 开发者**.
+**A Go Developer**.
 
 
 
